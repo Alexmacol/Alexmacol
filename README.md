@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @Alexmacol
-- 👀 Meus interesses residem na área de tecnologia em suas múltiplas configurações.
+- 👀 Tenho interesse na área de tecnologia em suas múltiplas configurações.
 - 🌱 Este é meu portifólio enquanto estudo para me tornar um desenvolvedor Full-Stack.
 - 💞️ Procuro por oportunidades como Desenvolvedor Front-End.
 - 📫 Clique no botão abaixo para entrar em contato comigo!
