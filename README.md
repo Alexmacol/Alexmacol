@@ -5,7 +5,9 @@
 - 📫 Clique no botão abaixo para entrar em contato comigo!
 
 ##   <div> 
-<a href = "mailto:alexmacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href = "mailto:alexmacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "www.linkedin.com/in/alexandre-m-oliveira"><img src="https://img.shields.io/badge/-IN-%23333?style=for-the-badge&logo=IN&logoColor=white" target="_blank"></a> 
+
 </div>
 <!---
 Alexmacol/Alexmacol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
