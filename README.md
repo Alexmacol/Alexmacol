@@ -2,7 +2,7 @@
 - 👀 Tenho interesse na área de tecnologia em suas múltiplas configurações.
 - 🌱 Este é meu portifólio enquanto estudo para me tornar um desenvolvedor Full-Stack.
 - 💞️ Procuro por oportunidades como Desenvolvedor Front-End.
-- 📫 Clique no botão abaixo para entrar em contato comigo!
+- 📫 Clique nos botões abaixo para entrar em contato comigo!
 
 ##   <div> 
 <a href = "mailto:alexmacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
