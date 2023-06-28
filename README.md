@@ -2,7 +2,6 @@
 - 👀 Tenho interesse na área de tecnologia em suas múltiplas configurações.
 - 🌱 Este é meu portifólio enquanto estudo para me tornar um desenvolvedor Full-Stack.
 - 💞️ Procuro por oportunidades como Desenvolvedor Front-End.
-- 📫 Clique nos botões abaixo para entrar em contato comigo!
 - 🔧 Ferramentas:
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,7 +9,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
                
-- 📫 Clique nos botões abaixo para entrar em contato comigo!
+- 📫 Entre em contato comigo!
   
 ##   <div> 
 <a href = "mailto:alexmacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
