@@ -1,6 +1,6 @@
--  🪪Olá, eu sou Alexmacol
--  🎯Tenho interesse na área de tecnologia em suas múltiplas configurações.
--  🌱Este é meu portifólio enquanto estudo para me tornar um desenvolvedor Full-Stack.
+-  🪪 Olá, eu sou Alexmacol
+-  🎯 Tenho interesse na área de tecnologia em suas múltiplas configurações.
+-  🌱 Este é meu portifólio enquanto estudo para me tornar um desenvolvedor Full-Stack.
 -  ➡️ Procuro por oportunidades como Desenvolvedor Front-End.
 -  📨 Entre em contato comigo!
   
