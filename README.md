@@ -9,7 +9,7 @@
 <br>
 
 -  🎯 Tenho interesse na área de tecnologia em suas múltiplas configurações.
--  🌱 Portifólio em desenvolvimento constante enquanto estudo para me tornar um desenvolvedor Full-Stack.
+-  🌱 Portifólio em desenvolvimento constante enquanto estudo para me tornar um Dev Full-Stack.
 -  ➡️ Procuro por oportunidades como Desenvolvedor Front-End.
 -  📬 Entre em contato comigo!
   
