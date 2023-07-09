@@ -1,3 +1,4 @@
+<h1>DEV ALEXMACOL - BEM-VINDOS ao meu perfil!</h1>
  <div>
    <a href="https://github.com/Alexmacol">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexmacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,9 +8,8 @@
 
 <br>
 
--  🪪 Olá, eu sou Alexmacol
 -  🎯 Tenho interesse na área de tecnologia em suas múltiplas configurações.
--  🌱 Este é meu portifólio enquanto estudo para me tornar um desenvolvedor Full-Stack.
+-  🌱 Portifólio em desenvolvimento constante enquanto estudo para me tornar um desenvolvedor Full-Stack.
 -  ➡️ Procuro por oportunidades como Desenvolvedor Front-End.
 -  📬 Entre em contato comigo!
   
