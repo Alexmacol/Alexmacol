@@ -1,9 +1,8 @@
-<h1>DEV ALEXMACOL - BEM-VINDOS ao meu perfil!</h1>
+<h1>ALEXMACOL - BEM-VINDO(A) ao meu perfil!</h1>
  <div>
    <a href="https://github.com/Alexmacol">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexmacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmacol&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
 
  <div style="display: inline_block"><br>  
@@ -16,7 +15,6 @@
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Vercel" height="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-          
  </div>
 
 
