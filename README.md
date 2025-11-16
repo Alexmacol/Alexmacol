@@ -25,9 +25,10 @@
   
 </div> 
 
--  🎯 Tenho interesse na área de tecnologia em suas múltiplas configurações.
+-  🎯 Tenho interesse em desenvolver aplicações escaláveis e performáticas.
+-  ✨ Utilizo ferramentas de IA para otimizar processos, aumentar produtividade e entregar valor de forma mais eficiente
 -  🌱 Portifólio em desenvolvimento constante enquanto estudo para me tornar um Dev Full-Stack.
--  ➡️ Procuro por oportunidades como Web Developer Entry Level.
+-  ➡️ Procuro por oportunidades como Web Developer Full-Stack Entry Level.
 -  📬 Entre em contato comigo!
  
 ##  <div>
