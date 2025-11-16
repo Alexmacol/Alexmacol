@@ -25,8 +25,8 @@
   
 </div> 
 
--  🎯 Tenho interesse em desenvolver aplicações escaláveis e performáticas.
--  ✨ Utilizo ferramentas de IA para otimizar processos, aumentar produtividade e entregar valor de forma mais eficiente
+-  🎯 Interesse em desenvolver aplicações escaláveis e performáticas e engenharia de prompt.
+-  ✨ Uso de IA para otimizar processos, aumentar produtividade e entregar valor de forma mais eficiente.
 -  🌱 Portifólio em desenvolvimento constante enquanto estudo para me tornar um Dev Full-Stack.
 -  ➡️ Procuro por oportunidades como Web Developer Full-Stack Entry Level.
 -  📬 Entre em contato comigo!
