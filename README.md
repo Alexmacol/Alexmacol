@@ -1,5 +1,6 @@
-<h1>ALEXMACOL - BEM-VINDO(A) ao meu perfil!</h1>
- <div>
+<h1 style="margin-bottom: 0px;">Alexmacol | Desenvolvedor Full-Stack em Transição</h1>
+<p style="margin-top: -10px;"><small>10 Anos de Expertise em TI (mainframe)</small></p>
+<div>
    <a href="https://github.com/Alexmacol">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexmacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmacol&layout=compact&langs_count=6&theme=tokyonight"/>
