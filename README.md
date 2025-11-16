@@ -3,11 +3,11 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex; gap: 10px; align-items: center; margin-top: 12px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alexmacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmacol&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Alexmacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmacol&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<br> <!-- ✔ quebra de linha adicionada aqui -->
+<br>
 
 <!-- Stacks -->
 <div style="margin-top: 20px;">
@@ -24,7 +24,7 @@
   <img align="center" alt="Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
 </div>
 
-<br> <!-- ✔ quebra de linha adicionada aqui -->
+<br>
 
 - 🎯 **Interesses:** desenvolver aplicações escaláveis e performáticas, engenharia de prompt e IA generativa.  
 - ✨ Uso da IA para otimizar processos, aumentar produtividade e entregar valor.  
@@ -34,11 +34,5 @@
 
 <br>
 
-<!-- Contatos -->
-<a href="mailto:alexmacol@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<a href="https://www.linkedin.com/in/alexandre-m-de-oliveira" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="mailto:alexmacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/alexandre-m-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
