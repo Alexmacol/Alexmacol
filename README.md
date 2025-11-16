@@ -1,9 +1,11 @@
 # AlexmacoL | Web Developer Full-Stack em Transição
 <p style="margin-top: -15px; margin-bottom: 0px;">10 Anos de Expertise em TI (mainframe)</p>
 
-<div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://github.com/Alexmacol">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexmacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Alexmacol">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmacol&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
