@@ -28,8 +28,8 @@
 
 - 🎯 **Interesses:** desenvolver aplicações escaláveis e performáticas, engenharia de prompt e IA generativa.  
 - ✨ Uso da IA para otimizar processos, aumentar produtividade e entregar valor.  
-- 🌱 Portfólio em evolução enquanto estudo para me tornar Full-Stack.  
-- ➡️ Buscando oportunidades como **Full-Stack Entry Level**.  
+- 🌱 Portfólio em evolução constante enquanto estudo para me tornar um desenvolvedor Full-Stack.  
+- ➡️ Buscando oportunidades como **Web Developer Full-Stack Entry Level**.  
 - 📬 Entre em contato comigo!
 
 <br>
