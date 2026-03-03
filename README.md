@@ -4,15 +4,15 @@
 
 ---
 
-> *Passei 10 anos como programador e analista de sistemas em mainframe. Hoje aplico essa mentalidade de robustez e performance para construir aplicações web e mobile modernas com React e IA generativa.*
+> Passei 10 anos como programador e analista de sistemas em mainframe. Hoje aplico essa mentalidade de robustez e performance para construir aplicações web e mobile modernas com React e IA generativa.
 
 ---
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alexmacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alexmacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmacol&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmacol&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <br>
@@ -21,15 +21,43 @@
 
 ### 🛠️ Stack
 
-| | |
-|---|---|
-| **Frontend** | <img height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/> <img height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/> <img height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/> <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> |
-| **Cloud & Deploy** | <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" title="Firebase"/> <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel"/> |
-| **Automação & IA** | <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" title="n8n" height="24"/> |
-| **Ferramentas** | <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/> <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/> |
-| **Mobile** *(em aprendizado)* | <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" title="Flutter"/> |
-
-<br>
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
+      <img height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
+      <img height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+      <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Deploy</strong></td>
+    <td>
+      <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" title="Firebase"/>
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" title="Vercel" height="24"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Automação & IA</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" title="n8n" height="24"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Ferramentas</strong></td>
+    <td>
+      <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+      <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong> <em>(em aprendizado)</em></td>
+    <td>
+      <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" title="Flutter"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
