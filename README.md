@@ -4,7 +4,7 @@
 
 ---
 
-> 15 anos como programador e analista de sistemas em mainframe. Hoje aplico essa mentalidade de robustez e performance para construir aplicações **web e mobile** modernas com React e IA generativa.
+> 15 anos como programador e analista de sistemas em mainframe. Hoje aplico essa **mentalidade de robustez e performance no desenvolvimento de aplicações web e mobile modernas** com React e IA generativa.
 
 ---
 
