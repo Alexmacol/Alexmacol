@@ -73,13 +73,4 @@
 
 ### 📬 Contato
 
-<a href="/cdn-cgi/l/email-protection#ceafa2abb6a3afada1a28ea9a3afa7a2e0ada1a3">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alexandre-m-de-oliveira" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://linktr.ee/alexmacol" target="_blank">
-  <img src="https://img.shields.io/badge/-Linktree-%2300C853?style=for-the-badge&logo=linktre
+<a href="mailto:alexmacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><a href="https://www.linkedin.com/in/alexandre-m-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://linktr.ee/alexmacol" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
