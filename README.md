@@ -1,6 +1,6 @@
 <h1>AlexmacoL</h1>
 <h2 style="margin-bottom: 0;">Desenvolvedor Full-Stack em Transição</h2>
-<p style="margin-top: 4px; margin-bottom: 0;"><small>15 Anos de Expertise em TI · Web & Mobile Developer</small></p>
+
 
 ---
 
@@ -63,7 +63,7 @@
 
 ### Sobre mim
 
-- 🏗️ **Background:** Década de experiência como programador e analista de sistemas em mainframe — desenvolvimento, processamento batch e integração de sistemas de missão crítica.
+- 🏗️ **Background:** 15 anos como programador e analista de sistemas em mainframe — desenvolvimento, processamento batch e integração de sistemas de missão crítica.
 - ⚡ **Hoje:** Construindo aplicações web e mobile modernas, com foco em performance e arquitetura escalável.
 - 🤖 **IA na prática:** Uso IA generativa, engenharia de prompt e automações n8n como ferramentas reais de produtividade no desenvolvimento.
 - 🎓 **Formação atual:** DEV WEB Fullstack na DEV em Dobro · Tecnologia em Processamento de Dados — Mackenzie.
