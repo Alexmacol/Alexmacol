@@ -3,7 +3,7 @@
 
 ---
 
-> 15 anos em TI deram uma perspectiva diferente sobre sistemas. Hoje aplico essa experiência para desenvolver **aplicações web e mobile modernas** — com a robustez e performance que sistemas críticos exigem.
+> 15 anos em TI deram uma perspectiva diferente sobre sistemas. Hoje aplico essa experiência para desenvolver **aplicações web e mobile modernas** — com a **robustez e performance** que sistemas críticos exigem.
 
 ---
 
