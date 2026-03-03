@@ -1,6 +1,6 @@
 <h1>AlexmacoL</h1>
 <h2 style="margin-bottom: 0;">Desenvolvedor Full-Stack em Transição</h2>
-<p style="margin-top: 4px; margin-bottom: 0;"><small>10 Anos de Expertise em TI · Web & Mobile Developer</small></p>
+<p style="margin-top: 4px; margin-bottom: 0;"><small>15 Anos de Expertise em TI · Web & Mobile Developer</small></p>
 
 ---
 
