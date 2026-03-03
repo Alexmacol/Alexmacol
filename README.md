@@ -62,7 +62,7 @@
 
 ### Sobre mim
 
-- 🏗️ **Background:** Década de experiência como programador e analista de sistemas em mainframe — desenvolvimento, processamento batch e integração de sistemas de missão crítica.
+- 🏗️ **Background:** 15 anos de experiência como programador e analista de sistemas em mainframe — desenvolvimento, processamento batch e integração de sistemas de missão crítica.
 - ⚡ **Hoje:** Construindo aplicações web e mobile modernas, com foco em performance e arquitetura escalável.
 - 🤖 **IA na prática:** Uso IA generativa, engenharia de prompt e automações n8n como ferramentas reais de produtividade no desenvolvimento.
 - 🎓 **Formação atual:** DEV WEB Fullstack na DEV em Dobro · Tecnologia em Processamento de Dados — Mackenzie.
