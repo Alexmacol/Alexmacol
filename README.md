@@ -1,4 +1,5 @@
-<h1 style="margin-bottom: 0;">AlexmacoL - Desenvolvedor web Full-Stack em Transição</h1>
+<h1 style="margin-bottom: 0;">AlexmacoL</h1>
+<h2 style="margin-bottom: 0;">Desenvolvedor Full-Stack em Transição</h2>
 <p style="margin-top: -15px; margin-bottom: 0;"><small>10 Anos de Expertise em TI (mainframe)</small></p>
 
 <!-- GitHub Stats -->
