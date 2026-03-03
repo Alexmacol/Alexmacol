@@ -4,7 +4,7 @@
 
 ---
 
-> 15 anos como programador e analista de sistemas em mainframe. Hoje aplico essa **mentalidade de robustez e performance no desenvolvimento de aplicações web e mobile modernas** com React e IA generativa.
+<blockquote>15 anos como programador e analista de sistemas em mainframe. Hoje aplico essa <strong style="color:#ffffff">mentalidade de robustez e performance no desenvolvimento de aplicações web e mobile modernas</strong> com React e IA generativa.</blockquote>
 
 ---
 
@@ -63,7 +63,7 @@
 
 ### Sobre mim
 
-- 🏗️ **Background:** 15 anos como programador e analista de sistemas em mainframe — desenvolvimento, processamento batch e integração de sistemas de missão crítica.
+- 🏗️ **Background:** Década de experiência como programador e analista de sistemas em mainframe — desenvolvimento, processamento batch e integração de sistemas de missão crítica.
 - ⚡ **Hoje:** Construindo aplicações web e mobile modernas, com foco em performance e arquitetura escalável.
 - 🤖 **IA na prática:** Uso IA generativa, engenharia de prompt e automações n8n como ferramentas reais de produtividade no desenvolvimento.
 - 🎓 **Formação atual:** DEV WEB Fullstack na DEV em Dobro · Tecnologia em Processamento de Dados — Mackenzie.
@@ -73,4 +73,4 @@
 
 ### 📬 Contato
 
-<a href="mailto:alexmacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><a href="https://www.linkedin.com/in/alexandre-m-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://linktr.ee/alexmacol" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+<a href="/cdn-cgi/l/email-protection#741518110c1915171b18341319151d185a171b19"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><a href="https://www.linkedin.com/in/alexandre-m-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://linktr.ee/alexmacol" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktr
