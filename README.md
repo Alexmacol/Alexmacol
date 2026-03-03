@@ -1,4 +1,4 @@
-<h1 style="margin-bottom: 0;">AlexmacoL</h1>
+<h1>AlexmacoL</h1>
 <h2 style="margin-bottom: 0;">Desenvolvedor Full-Stack em Transição</h2>
 <p style="margin-top: -15px; margin-bottom: 0;"><small>10 Anos de Expertise em TI (mainframe)</small></p>
 
