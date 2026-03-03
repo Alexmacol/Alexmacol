@@ -3,7 +3,7 @@
 
 ---
 
-> 15 anos como programador e analista de sistemas em mainframe. Hoje aplico essa **mentalidade de robustez e performance no desenvolvimento de aplicações web e mobile modernas** com React e IA generativa.
+> 15 anos em TI deram uma perspectiva diferente sobre sistemas. Hoje aplico essa experiência para desenvolver **aplicações web e mobile modernas** — com a robustez e performance que sistemas críticos exigem.
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### Sobre mim
 
-- 🏗️ **Background:** 15 anos de experiência como programador e analista de sistemas em mainframe — desenvolvimento, processamento batch e integração de sistemas de missão crítica.
+- 🏗️ **Background:** Década de experiência como programador e analista de sistemas em mainframe — desenvolvimento, processamento batch e integração de sistemas de missão crítica.
 - ⚡ **Hoje:** Construindo aplicações web e mobile modernas, com foco em performance e arquitetura escalável.
 - 🤖 **IA na prática:** Uso IA generativa, engenharia de prompt e automações n8n como ferramentas reais de produtividade no desenvolvimento.
 - 🎓 **Formação atual:** DEV WEB Fullstack na DEV em Dobro · Tecnologia em Processamento de Dados — Mackenzie.
@@ -72,4 +72,4 @@
 
 ### 📬 Contato
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmacol@gmail.com)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-m-de-oliveira)[![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alexmacol)
+<a href="mailto:alexmacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://www.linkedin.com/in/alexandre-m-de-oliveira"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://linktr.ee/alexmacol"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
