@@ -1,10 +1,9 @@
 <h1>AlexmacoL</h1>
 <h2 style="margin-bottom: 0;">Desenvolvedor Full-Stack em Transição</h2>
 
-
 ---
 
-<blockquote>15 anos como programador e analista de sistemas em mainframe. Hoje aplico essa <strong style="color:#ffffff">mentalidade de robustez e performance no desenvolvimento de aplicações web e mobile modernas</strong> com React e IA generativa.</blockquote>
+> 15 anos como programador e analista de sistemas em mainframe. Hoje aplico essa **mentalidade de robustez e performance no desenvolvimento de aplicações web e mobile modernas** com React e IA generativa.
 
 ---
 
@@ -73,4 +72,4 @@
 
 ### 📬 Contato
 
-<a href="/cdn-cgi/l/email-protection#741518110c1915171b18341319151d185a171b19"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><a href="https://www.linkedin.com/in/alexandre-m-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://linktr.ee/alexmacol" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktr
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmacol@gmail.com)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-m-de-oliveira)[![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alexmacol)
